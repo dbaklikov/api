@@ -109,6 +109,7 @@ HeadHunter API — это бесплатный инструментарий дл
   * [Удаление менеджера](docs/employer_managers.md#delete) <img src="http://hhru.github.io/api/badges/emp.png" alt="employer" />
   * [Справочник менеджеров работодателя](docs/employer_managers.md#list) <img src="http://hhru.github.io/api/badges/emp.png" alt="employer" />
   * [Получение информации о менеджере](docs/employer_managers.md#item) <img src="http://hhru.github.io/api/badges/emp.png" alt="employer" />
+  * [Статистика реакции работодателя на отклики](docs/employer_manager_statistics.md) <img src="http://hhru.github.io/api/badges/emp.png" alt="employer" />
 
 <a name="negotiations"></a>
 ### Переписка (отклики/приглашения)
